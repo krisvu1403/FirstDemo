@@ -38,5 +38,5 @@ public abstract class HinhVe {
         this.tenHinh = tenHinh;
     }
 	//NEW LINE
-	123
+	456
 }
